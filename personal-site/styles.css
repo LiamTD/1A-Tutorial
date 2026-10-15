@@ -17,10 +17,15 @@ body {
 
 /* home */
 .home {
-    background:url(../images/dogs-400x250.png);
+    background: url(../images/dogs-400x250.png) no-repeat;
+    background-size: cover;
 }
 
 /* RESUME */
+
+.home .content-wrapper {
+    background: rgb(255 255 255 / 0.9);
+}
 
 /* profile */
 
@@ -31,3 +36,8 @@ body {
 /* education */
 
 /* FOOTER */
+
+.footer {
+    background: #222;
+    color: #d3d4d6
+}
