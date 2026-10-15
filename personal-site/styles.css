@@ -15,6 +15,15 @@ body {
     background: #f6f6f6;
 }
 
+/*links*/
+a {
+    color:  #3c8453;
+}
+a:hover {
+    color:  #bcaa96;
+    text-decoration: none;
+}
+
 /* home */
 .home {
     background: url(../images/dogs-400x250.png) no-repeat;
