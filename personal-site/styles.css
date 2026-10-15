@@ -15,8 +15,10 @@ body {
     background: #f6f6f6;
 }
 
-/* HOME */
-
+/* home */
+.home {
+    background-image: url("mdn_logo_only_color.png");
+}
 
 /* RESUME */
 
